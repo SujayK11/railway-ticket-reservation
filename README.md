@@ -1,4 +1,6 @@
 # Railway-Ticket-Resevation-System
+Initial version of README
+
 This is my project about Railway Ticket Reservation System developed using HTML CSS JAVASCRIPT
 
 ![homepage](https://user-images.githubusercontent.com/84675187/231785631-6442f806-32e8-4eb7-b524-b1c9cdce3919.jpg)
